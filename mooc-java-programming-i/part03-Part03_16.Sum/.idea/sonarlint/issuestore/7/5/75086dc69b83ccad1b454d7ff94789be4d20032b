@@ -1,0 +1,7 @@
+
+
+java:S1319"dThe type of "nums" should be an interface such as "List" rather than the implementation "ArrayList".(üı‘í8ÿÚñŸ˜1
+7
+java:S1220""Move this file to a named package.8€ÛñŸ˜1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÉÈ€¹ûÿÿÿÿ8œôŸ˜1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÉÈ€¹ûÿÿÿÿ8 ôŸ˜1

@@ -1,0 +1,17 @@
+
+0
+java:S1220""Move this file to a named package.
+`
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Ž¿ÃÑýÿÿÿÿ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(Öð«Éúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ºóá®ûÿÿÿÿ
+T
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(¦ÆÉôûÿÿÿÿ
+N
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(˜¸ŠO
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(·ùíöùÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(÷õâ«
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(£¼•š
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(€Ü´ý
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ

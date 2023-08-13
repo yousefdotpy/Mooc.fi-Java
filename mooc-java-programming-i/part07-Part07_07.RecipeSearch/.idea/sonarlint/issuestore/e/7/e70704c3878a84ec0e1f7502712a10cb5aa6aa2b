@@ -1,0 +1,35 @@
+
+g
+java:S1192B"JDefine a constant instead of duplicating this literal "
+Recipes:" 3 times.(Ô¤¦œ8µô’à1
+‚
+java:S1319`"eThe type of "lines" should be an interface such as "List" rather than the implementation "ArrayList".(°›Á8ùÈ“à1
+0
+java:S1220""Move this file to a named package.
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ú¡­,8Îô’à1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¾Š‰Ê8Ñô’à1
+U	java:S106""9Replace this use of System.out or System.err by a logger.(ñ·¤¬8àô’à1
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(…âÓˆÿÿÿÿÿ8ãô’à1
+U	java:S106("9Replace this use of System.out or System.err by a logger.(ÆÀûı8åô’à1
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(£½ø¼8æô’à1
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(¹î€8çô’à1
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(Åğ‰ß8èô’à1
+T	java:S106-"9Replace this use of System.out or System.err by a logger.(üæÈK8èô’à1
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8éô’à1
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(£’Ÿšúÿÿÿÿ8êô’à1
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(¨Š¨8íô’à1
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(ÿè©ü8ïô’à1
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(÷êôœ8òô’à1
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(Ô¤¦œ8óô’à1
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(ÿş«Ä8öô’à1
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(™šİåûÿÿÿÿ8ùô’à1
+[
+java:S2130K"9Use "Integer.parseInt" for this string-to-int conversion.(³€¤æüÿÿÿÿ8úô’à1
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(Ô¤¦œ8şô’à1
+U	java:S106O"9Replace this use of System.out or System.err by a logger.(ÿş«Ä8€õ’à1
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(÷êôœ8ƒõ’à1
+U	java:S106V"9Replace this use of System.out or System.err by a logger.(Ô¤¦œ8„õ’à1
+U	java:S106Y"9Replace this use of System.out or System.err by a logger.(ÿş«Ä8‡õ’à1
+[
+java:S2130c"9Use "Integer.parseInt" for this string-to-int conversion.(³§ä ıÿÿÿÿ8Šõ’à1

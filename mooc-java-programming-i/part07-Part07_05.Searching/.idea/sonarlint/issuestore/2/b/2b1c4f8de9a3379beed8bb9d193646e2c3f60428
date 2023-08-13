@@ -1,0 +1,24 @@
+
+€
+java:S1319/"eThe type of "books" should be an interface such as "List" rather than the implementation "ArrayList".(«—ø®üÿÿÿÿ
+{
+java:S1319:"eThe type of "books" should be an interface such as "List" rather than the implementation "ArrayList".(Ñœæš
+0
+java:S1220""Move this file to a named package.
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ûÐåý
+T
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(°’éþûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÛÚ…·
+T
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(æ¤Åïýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ËÏ’Áüÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(–×´>
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‰âŸû
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±÷»Ôùÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ÿÓ÷‹ùÿÿÿÿ
+M	java:S106&"9Replace this use of System.out or System.err by a logger.(–×´>
+N	java:S106("9Replace this use of System.out or System.err by a logger.(‰âŸû
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ŠÿÙ‘øÿÿÿÿ

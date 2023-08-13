@@ -1,0 +1,11 @@
+
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ8Õý‚àž1
+7
+java:S1220""Move this file to a named package.8Øý‚àž1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÝÀíõÿÿÿÿÿ8íý‚àž1
+[
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(±ìœáÿÿÿÿÿ8ðý‚àž1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(êºßI8ôý‚àž1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Âö™Þ8÷ý‚àž1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ç¦”‚úÿÿÿÿ8ùý‚àž1
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.( §’ªþÿÿÿÿ8úý‚àž1

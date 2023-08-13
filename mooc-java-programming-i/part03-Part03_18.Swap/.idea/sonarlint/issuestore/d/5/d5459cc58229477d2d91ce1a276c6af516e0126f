@@ -1,0 +1,12 @@
+
+7
+java:S1220""Move this file to a named package.8Ÿ¢é ˜1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¤êà8Ø¢é ˜1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8Ú¢é ˜1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¢·Ò8Û¢é ˜1
+V
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(ú…«ù8Ü¢é ˜1
+V
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(åæ”8Ş¢é ˜1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8â¢é ˜1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¤êà8ã¢é ˜1

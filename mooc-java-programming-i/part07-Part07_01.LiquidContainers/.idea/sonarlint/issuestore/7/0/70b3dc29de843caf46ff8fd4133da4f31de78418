@@ -1,0 +1,10 @@
+
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(οÿÿÿÿÿ8¬…¨Π1
+L
+java:S1066."/Merge this if statement with the enclosing one.(έπΆ·8­…¨Π1
+7
+java:S1220""Move this file to a named package.8δυ΅Π1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Ηµν‘8±¨Π1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ό’—όÿÿÿÿ8Ώ¨Π1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(–Τε8ΐ¨Π1

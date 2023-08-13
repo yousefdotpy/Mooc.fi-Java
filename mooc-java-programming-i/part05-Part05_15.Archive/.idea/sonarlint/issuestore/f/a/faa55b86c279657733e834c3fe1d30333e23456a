@@ -1,0 +1,5 @@
+
+0
+java:S1220""Move this file to a named package.
+k
+java:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(ýึงþÿÿÿÿ

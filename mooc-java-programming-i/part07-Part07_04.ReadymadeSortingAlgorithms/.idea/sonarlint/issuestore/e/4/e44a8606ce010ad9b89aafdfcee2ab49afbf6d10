@@ -1,0 +1,10 @@
+
+Š
+java:S1319"hThe type of "integers" should be an interface such as "List" rather than the implementation "ArrayList".(ÕÇôĞùÿÿÿÿ8ßÎÇÜ1
+„
+java:S1319"gThe type of "strings" should be an interface such as "List" rather than the implementation "ArrayList".(ÃÈëˆ8àÎÇÜ1
+7
+java:S1220""Move this file to a named package.8áÎÇÜ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒìîüıÿÿÿÿ8‹ùÈÜ1
+S
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8ùÎÇÜ1

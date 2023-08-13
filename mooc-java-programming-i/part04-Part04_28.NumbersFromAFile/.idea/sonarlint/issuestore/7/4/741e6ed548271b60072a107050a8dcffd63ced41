@@ -1,0 +1,15 @@
+
+7
+java:S1220""Move this file to a named package.8óò¿™1
+g
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Ş±Öÿÿÿÿÿ8…§šÀ™1
+]	java:S125"<This block of commented-out lines of code should be removed.(”¢°Ûûÿÿÿÿ8ª˜’À™1
+[
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(õ¯†üÿÿÿÿ8Õ ò¿™1
+]	java:S125"<This block of commented-out lines of code should be removed.(¬Ûëûÿÿÿÿ8Êó‘À™1
+U
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(úÎÇy8Ù ò¿™1
+[
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(™Ùšÿÿÿÿÿ8Òø¿™1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÙµÀ8¼ûó¿™1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ï÷Ûùşÿÿÿÿ8ïí™À™1

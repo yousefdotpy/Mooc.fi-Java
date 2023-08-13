@@ -1,0 +1,9 @@
+
+s	java:S135
+"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(€Â’Úüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(èšš»ùÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ÿŸ´ïùÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(Òà´Ç

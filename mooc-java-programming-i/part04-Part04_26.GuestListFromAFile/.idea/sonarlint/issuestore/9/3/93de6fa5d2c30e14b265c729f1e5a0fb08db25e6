@@ -1,0 +1,12 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8è¢÷š™1
+7
+java:S1220""Move this file to a named package.8÷Ùöš™1
+g
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ì¦» ùÿÿÿÿ8•ûš™1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Àø8 Úöš™1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8§Úöš™1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ó’ğ8¨Úöš™1
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(¥şÊÚ8¬Úöš™1
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(ƒ—’Ã8­Úöš™1
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(§ü©¥üÿÿÿÿ8®Úöš™1
