@@ -8,3 +8,5 @@ o
 java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Çµí‘8±Œ¨Ğ1
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(¼’—üÿÿÿÿ8¿Œ¨Ğ1
 U	java:S106"9Replace this use of System.out or System.err by a logger.(–Ôå8ÀŒ¨Ğ1
+[
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(˜Í…¸şÿÿÿÿ8•·µØŸ1

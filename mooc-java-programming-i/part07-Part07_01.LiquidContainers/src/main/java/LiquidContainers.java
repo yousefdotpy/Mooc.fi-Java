@@ -19,7 +19,7 @@ public class LiquidContainers {
 
             final String[] parts = input.split(" ");
             final String command = parts[0];
-            final int amount = Integer.parseInt(parts[1]);
+            final int amount = Integer.valueOf(parts[1]);
 
             if (amount < 1) {
                 continue;
