@@ -9,6 +9,23 @@ public class LicensePlate {
     private final String liNumber;
     private final String country;
 
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) {
+            return true;
+        }
+        if (!(o instanceof LicensePlate)) {
+            return false;
+        }
+        LicensePlate that = (LicensePlate) o;
+        return Objects.equals(liNumber, that.liNumber) && Objects.equals(country, that.country);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(liNumber, country);
+    }
+
     public LicensePlate(String country, String liNumber) {
         this.liNumber = liNumber;
         this.country = country;
