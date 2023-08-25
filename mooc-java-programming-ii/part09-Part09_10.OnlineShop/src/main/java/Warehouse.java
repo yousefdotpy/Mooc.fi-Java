@@ -1,5 +1,7 @@
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Map;
+import java.util.Set;
 
 public class Warehouse {
     private Map<String, Integer> productPrice;
@@ -34,6 +36,13 @@ public class Warehouse {
             return true;
         }
         return false;
+    }
+    public Set<String> products(){
+        Set<String> products = new HashSet<>();
+        for (String product: productStock.keySet()) {
+            products.add(product);
+        }
+        return products;
     }
 
 }
