@@ -1,3 +1,4 @@
+
 import java.util.ArrayList;
 
 public class OneItemBox extends Box{
@@ -26,4 +27,5 @@ public class OneItemBox extends Box{
         }
         return stored;
     }
+
 }
