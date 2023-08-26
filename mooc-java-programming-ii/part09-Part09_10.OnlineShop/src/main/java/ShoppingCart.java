@@ -17,4 +17,9 @@ public class ShoppingCart {
         }
         return totalPrice;
     }
+    public void print(){
+        for (Item item: items.values()) {
+            System.out.println(item);
+        }
+    }
 }
