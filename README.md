@@ -4,16 +4,6 @@
 
 Welcome to the Java Programming MOOC repository from the University of Helsinki! This repository contains solutions to the programming exercises offered in the course. This Markdown file serves as a supplement to the code solutions, providing you with additional information, explanations, and guidelines.
 
-## File Structure
-
-
-In this repository, you'll find the following file structure:
-```bash
-tree
-```
-
-Each `partX` directory corresponds to a week in the course, and each `ExerciseX` subdirectory contains the solution code for the respective exercise. You can explore the solutions by navigating through the directory structure.
-
 ## Understanding the Solutions
 
 We recommend using these solutions as a reference and learning tool to better understand the concepts taught in the course. However, it's essential to make an effort to solve the exercises on your own before referring to the solutions.
