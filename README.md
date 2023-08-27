@@ -8,20 +8,11 @@ Welcome to the Java Programming MOOC repository from the University of Helsinki!
 
 
 In this repository, you'll find the following file structure:
-mooc-java-programming-i/
-├── week1/
-│ ├── Exercise1/
-│ │ ├── Main.java
-│ │ └── ...
-│ ├── Exercise2/
-│ │ ├── Main.java
-│ │ └── ...
-│ └── ...
-├── week2/
-│ ├── ...
-└── ...
+```bash
+tree
+```
 
-Each `weekX` directory corresponds to a week in the course, and each `ExerciseX` subdirectory contains the solution code for the respective exercise. You can explore the solutions by navigating through the directory structure.
+Each `partX` directory corresponds to a week in the course, and each `ExerciseX` subdirectory contains the solution code for the respective exercise. You can explore the solutions by navigating through the directory structure.
 
 ## Understanding the Solutions
 
