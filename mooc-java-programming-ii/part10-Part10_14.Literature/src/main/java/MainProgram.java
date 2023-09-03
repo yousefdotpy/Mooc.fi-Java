@@ -25,6 +25,7 @@ public class MainProgram {
                 .thenComparing(Book::getTitle);
 
         books.sort(comparator);
+        System.out.println(books.size() + " books in total.");
         System.out.println("Books:");
         books.forEach(s -> System.out.println(s.getTitle() + " (recommended for " + s.getRecommendedAge() + " year-olds or older)"));
 
