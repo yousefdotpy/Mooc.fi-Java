@@ -38,6 +38,6 @@ public class Hand implements Comparable<Hand>{
     }
 
     public void sortBySuit() {
-        Collections.sort(cards, new SortBySuit());
+        Collections.sort(cards, new BySuitInValueOrder());
     }
 }
