@@ -23,9 +23,14 @@ public class Employees {
     }
 
     public void print(Education education){
-        employees.stream().
-                filter(e -> e.getEducation().equals(education)).
-                forEach(System.out::println);
+        Iterator<Person> iterator = employees.iterator();
+        while (iterator.hasNext()) {
+            Person nextInLine = iterator.next();
+            if (nextInLine.getEducation() == education) {
+                System.out.println(nextInLine);
+            }
+
+        }
     }
     public void fire(Education education){
         Iterator<Person> iterator = employees.iterator();
