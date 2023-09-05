@@ -1,4 +1,5 @@
 public class Student {
-    private String studentID;
+    private int studentID;
     private String name;
+    private University university;
 }
